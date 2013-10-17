@@ -58,13 +58,16 @@ on youtube
 ([link](http://www.youtube.com/results?search_query=spark+chamber)).
 
 However, for this to happen, one needs to
-1. have the metallic plates positioned at the right distance, and the
+
+1.  have the metallic plates positioned at the right distance, and the
 gaps filled with an appropriate gas; this involves the construction of
-the *spark chamber* itself.
-2. apply to the plates a high voltage very quickly; this involves the
-construction of a *high-voltage pulse generator*.
-3. only apply the high voltage when there actually a cosmic muon; this
-involves the construction of a *trigger system*.
+the **spark chamber** itself.
+
+2.  apply to the plates a high voltage very quickly; this involves the
+construction of a **high-voltage pulse generator**.
+
+3.  only apply the high voltage when there actually a cosmic muon;
+this involves the construction of a **trigger system**.
 
 The chamber can be built as a plexiglass box with aluminum plates in
 it. The box has to be transparent, so that we can see the sparks, and
@@ -112,6 +115,44 @@ Possible subproject subdivision
 -------------------------------
 
 ### Spark chamber prototype
+
+What you do:
+
+- design the box, the precision spacers, the plates, and their interconnections
+
+- machine plexiglass and aluminum
+
+- build an air-tight beautiful object
+
+- install gas valves
+
+- install high-voltage electrical connections
+
+Tricky parts:
+
+- make the box air-tight
+
+- avoid sharp edges on the metal (they cause spurious sparks)
+
+- empty the air from the box and fill it with gas
+
+What you learn:
+
+- how a gas particle detector works (similar detectors are used for
+  example in particle physics and in medical physics)
+
+Tentative budget
+
+| Item                                           | Price|
+|------------------------------------------------|-----:|
+| Six acrylic sheets, 12in x 12in, 1in thick     |  $200|
+| Six aluminum sheets, 12in x 12in, 0.05" thick  |   $40|
+| K-Bond Transparent Penetrating Acrylic Adhesive|   $30|
+| Electrical connectors (check more precisely)   |  $100|
+| Gas valves and fittings                        |   $50|
+| Gas mixture (50L)  (perhaps smaller bottle?)   |  $500|
+|------------------------------------------------|-----:|
+| Total                                          | $1020|
 
 ### High-voltage pulser
 
