@@ -216,7 +216,7 @@ Tricky parts:
 
 What you learn:
 
-- how to program in Verilog, and how to use an FPGA; these modern
+- how to program in VHDL, and how to use an FPGA; these modern
   devices are used everywhere, from your car to telecommunications
 
 Tentative budget
