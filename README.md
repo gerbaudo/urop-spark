@@ -104,7 +104,7 @@ models such as the PL5C22 would provide the necessary voltage and
 current required for our detector.
 
 The **trigger system** is a circuit that can determine within
-nanoseconds whether a cosmic muon has gone through our spark
+nanoseconds whether a cosmic ray has gone through our spark
 chamber. The idea is to have two simpler particle detectors
 (scintillators) one above and one below the spark chamber. Each one of
 them can provide a small electronic signal when a particle goes
@@ -229,7 +229,7 @@ Tentative budget
 
 ## Conclusion
 
-The construction of a spark chamber detector to visualize cosmic muon
+The construction of a spark chamber detector to visualize cosmic ray
 is a project in which at least three undergraduate students can
 participate.  The students would have the possibility to learn a
 diverse set of skills, and build an object that can then be used for
