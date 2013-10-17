@@ -114,27 +114,20 @@ The project can be summarized with the following scheme:
 Possible subproject subdivision
 -------------------------------
 
-### Spark chamber prototype
+### Construction of a spark chamber detector
 
 What you do:
 
-- design the box, the precision spacers, the plates, and their interconnections
+- design and build the box, the precision spacers, the plates, and
+  their interconnections
 
-- machine plexiglass and aluminum
-
-- build an air-tight beautiful object
-
-- install gas valves
-
-- install high-voltage electrical connections
+- install gas valves and high-voltage electrical connections
 
 Tricky parts:
 
 - make the box air-tight
 
 - avoid sharp edges on the metal (they cause spurious sparks)
-
-- empty the air from the box and fill it with gas
 
 What you learn:
 
@@ -151,9 +144,70 @@ Tentative budget
 | Electrical connectors (check more precisely)   |  $100|
 | Gas valves and fittings                        |   $50|
 | Gas mixture (50L)  (perhaps smaller bottle?)   |  $500|
-|------------------------------------------------|-----:|
 | Total                                          | $1020|
 
-### High-voltage pulser
+### Construction and evaluation of a high-voltage pulser circuit
+
+What you do:
+
+- design an build an analog fast circuit from simple components
+  (resistor, capacitors, trasnformer, spark plug)
+
+- determine whether the same functionalities can be obtained with an
+  existing component (thyristor)
+
+Tricky parts:
+
+- build an high-voltage fast-switching circuit without discharges
+  among its components (need proper insulation on the circuit)
+
+- get the thyristor to work
+
+What you learn:
+
+- principles of analog electronic design, functioning of thyristor
+  used in radars and PET medical devices
+
+Tentative budget
+
+| Item                                           | Price|
+|------------------------------------------------|-----:|
+| High voltage cables                            |  $200|
+| Thyristor+socket                               |  $150|
+| Spark plug, spacer, and support                |  $200|
+| Support structrure, insulating glue            |  $100|
+| Electronic components (breadboards, etc.       |  $200|
+| Total                                          |  $850|
 
 ### FPGA trigger logic
+
+What you do:
+
+- program a FPGA-based development board to implement a coincidence
+  counting circuit
+
+- the FPGA can do many other things, so the limit here is your
+  imagination. For example, one could implement an online
+  histogramming for the time of arrival of cosmic rays.
+
+Tricky parts:
+
+- convert the signals from the scintillators to electronic levels that
+  can be processed by the FPGA
+
+- implement the trigger logic in a flexible way, so that the
+  interesting parameters (delay, time window duration, etc.) can
+  easily be re-configured ad tuned
+
+What you learn:
+
+- how to program in Verilog, and how to use an FPGA; these modern
+  devices are used everywhere, from your car to telecommunications
+
+Tentative budget
+
+| Item                                           | Price|
+|------------------------------------------------|-----:|
+| Digilent Nexys3 (Spartan-6) development board  |  $230|
+| Electronic components (breadboards, etc.)      |  $200|
+| Total                                          |  $430|
