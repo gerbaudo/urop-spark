@@ -1,23 +1,35 @@
-Construction of a spark chamber
+Construction of a spark chamber to visualize cosmic rays
 ==========
 
-This document describes the construction of a spark chamber detector
-for educational purposes.
+This document describes the construction of a spark chamber particle
+detector for educational purposes.
+
+Davide Gerbaudo (dgerbaud@uci.edu), October 2013.
+
+**Table of Contents**
+
+- [What is a spark chamber](#sparkchamber)
+- [What are cosmic rays](#cosmic)
+- [Overview of the project](#overview)
+- [Possible project subdivision](#subdivision)
+  - [Construction of a spark chamber detector](#constructionspark)
+  - [Construction and evaluation of a high-voltage pulser circuit](#constructionpulse)
+  - [Implementation of an FPGA trigger logic](#constructiontrigger)
 
 
-What is a spark chamber
------------------------
+<a name="sparkchamber"/>
+## What is a spark chamber
 
 A spark chamber
 ([wikipedia](http://en.wikipedia.org/wiki/Spark_chamber)) is a
 particle detector. It allows to detect and visualize subatomic
 particles that costitute all the matter that surround us (including
 ourselves!). In some way, a spark chamber is the ancestor of the
-particle detectors that, for example, were used at the Large Hadron
-Collider to discover the Higgs boson.
+particle detectors that, for example, are used at the Large Hadron
+Collider where the Higgs boson was recently discovered.
 
-What are cosmic rays
---------------------
+<a name="cosmic"/>
+## What are cosmic rays
 
 The particles that one can visualize with a spark chamber are
 fundamental particles. We call them *fundamental* because we believe
@@ -37,8 +49,8 @@ The goal of this project is to build a spark chamber to visualize
 these cosmic rays, to learn how we can detect these particles, and to
 learn about particle physics.
 
-Overview of the project
------------------------
+<a name="overview"/>
+## Overview of the project
 
 In this section we briefly illustrate the main parts that need to
 be built for this project.
@@ -111,9 +123,10 @@ The project can be summarized with the following scheme:
 
 ![Project scheme](images/project_scheme.png)
 
-Possible subproject subdivision
--------------------------------
+<a name="subdivision"/>
+## Possible project subdivision
 
+<a name="constructionspark"/>
 ### Construction of a spark chamber detector
 
 What you do:
@@ -146,6 +159,7 @@ Tentative budget
 | Gas mixture (50L)  (perhaps smaller bottle?)   |  $500|
 | Total                                          | $1020|
 
+<a name="constructionpulse"/>
 ### Construction and evaluation of a high-voltage pulser circuit
 
 What you do:
@@ -179,7 +193,8 @@ Tentative budget
 | Electronic components (breadboards, etc.       |  $200|
 | Total                                          |  $850|
 
-### FPGA trigger logic
+<a name="constructiontrigger"/>
+### Implementation of an FPGA trigger logic
 
 What you do:
 
@@ -211,3 +226,13 @@ Tentative budget
 | Digilent Nexys3 (Spartan-6) development board  |  $230|
 | Electronic components (breadboards, etc.)      |  $200|
 | Total                                          |  $430|
+
+## Conclusion
+
+The construction of a spark chamber detector to visualize cosmic muon
+is a project in which at least three undergraduate students can
+participate.  The students would have the possibility to learn a
+diverse set of skills, and build an object that can then be used for
+educational purposes. The visualization of fundamental particles with
+this device is a nice way to demonstrate to non-specialist some of the
+most fascinating aspects of cutting edge research in particle physics.
