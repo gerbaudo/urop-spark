@@ -23,10 +23,10 @@ Davide Gerbaudo (dgerbaud@uci.edu), October 2013.
 A spark chamber
 ([wikipedia](http://en.wikipedia.org/wiki/Spark_chamber)) is a
 particle detector. It allows to detect and visualize subatomic
-particles that costitute all the matter that surround us (including
-ourselves!). In some way, a spark chamber is the ancestor of the
-particle detectors that, for example, are used at the Large Hadron
-Collider where the Higgs boson was recently discovered.
+particles that costitute all the known matter that surround us
+(including ourselves!). In some way, a spark chamber is the ancestor
+of the particle detectors that, for example, are used at the Large
+Hadron Collider where the Higgs boson was recently discovered.
 
 <a name="cosmic"/>
 ## What are cosmic rays
@@ -65,57 +65,57 @@ field is applied to the metal plates before the electrons and ions
 recombine, then the electrons are accelerated by the electric field,
 and they hit other atoms, which produce other electrons, and the
 overall result is that one can see a little spark right where the
-original cosmic muon was. You can see this for example on these videos
+original cosmic ray was. You can see this for example on these videos
 on youtube
 ([link](http://www.youtube.com/results?search_query=spark+chamber)).
 
 However, for this to happen, one needs to
 
 1.  have the metallic plates positioned at the right distance, and the
-gaps filled with an appropriate gas; this involves the construction of
+gaps filled with an appropriate gas; this requires the construction of
 the **spark chamber** itself.
 
-2.  apply to the plates a high voltage very quickly; this involves the
+2.  apply to the plates a high voltage very quickly; this requires the
 construction of a **high-voltage pulse generator**.
 
-3.  only apply the high voltage when there actually a cosmic muon;
-this involves the construction of a **trigger system**.
+3.  only apply the high voltage when there actually is a cosmic ray;
+this requires the construction of a **trigger system**.
 
-The chamber can be built as a plexiglass box with aluminum plates in
-it. The box has to be transparent, so that we can see the sparks, and
-air tight, so that we can fill it with gas. The gas will be a mixture
-of 30% Helium 70% Neon. The tightness of the box is very important
-because we want to avoid air infiltrations. The box should also have
-the necessary valves allowing to fill it with gas and then seal it. It
-should also have the necessary electrical connections to connect the
-metallic plates and apply the high voltage.
+The **chamber** can be built as a plexiglass box with aluminum plates
+in it. The box has to be transparent, so that we can see the sparks,
+and air tight, so that we can fill it with gas. The gas will be a
+mixture of 30% Helium 70% Neon. The tightness of the box is very
+important because we want to avoid air infiltrations. The box should
+also have the necessary valves allowing to fill it with gas and then
+seal it. It should also have the necessary electrical connections to
+connect the metallic plates and apply the high voltage.
 
-The high-voltage pulse generator has to provide an 8000 V potential
-within less than 500ns from a 'start' signal. Modern commercial
-solutions do exist, but they are very expensive (usually above
-$1000). Instead we want to investigate two more affordable solutions.
-The first one is based on a circuit that can be built from cheaper
-electronic components, and that is based on the spark plug used in
-automobile engines. The second solution is based on the thyristor, an
-electronic tube that was used in early radios and radars before the
-advent of solid state devices. Thyristors are still available on the
-market, mostly as collectibles, and we know that models such as the
-PL5C22 would provide the necessary voltage and current required for
-our detector.
+The **high-voltage pulse generator** has to provide an 8000 V
+potential within less than 500ns from a 'start' signal. Modern
+commercial solutions do exist, but they are very expensive (usually
+above $1000). Instead we want to investigate two more affordable
+solutions.  The first one is based on a circuit that can be built from
+cheaper electronic components, and that is based on the spark plug
+used in automobile engines. The second solution is based on the
+thyristor, an electronic tube that was used in early radios and radars
+before the advent of solid state devices. Thyristors are still
+available on the market, mostly as collectibles, and we know that
+models such as the PL5C22 would provide the necessary voltage and
+current required for our detector.
 
-The trigger system is a circuit that can determine within nanoseconds
-whether a cosmic muon has gone through our spark chamber. The idea is
-to have two simpler particle detectors (scintillators) one above and
-one below the spark chamber. Each one of them can provide a small
-electronic signal when a particle goes through it. The trigger system
-should compute whether the signal from the top detector is followed by
-a signal from the bottom detector within the very short time that it
-takes to the cosmic ray to traverse the spark chamber. Remember that
-cosmic rays travel almost at the speed of light. In the past, these
-circuits had to be built from basic electronic
-components. Fortunately, today there are generic circuits, called
-field programmable gate arrays (FPGA), that can be programmed to
-perform this kind of tasks. We want to implement our trigger system
+The **trigger system** is a circuit that can determine within
+nanoseconds whether a cosmic muon has gone through our spark
+chamber. The idea is to have two simpler particle detectors
+(scintillators) one above and one below the spark chamber. Each one of
+them can provide a small electronic signal when a particle goes
+through it. The trigger system should compute whether the signal from
+the top detector is followed by a signal from the bottom detector
+within the very short time that it takes to the cosmic ray to traverse
+the spark chamber. Remember that cosmic rays travel almost at the
+speed of light. In the past, these circuits had to be built from basic
+electronic components. Fortunately, today there are generic circuits,
+called field programmable gate arrays (FPGA), that can be programmed
+to perform this kind of tasks. We want to implement our trigger system
 with an FPGA.
 
 
