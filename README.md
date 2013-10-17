@@ -104,6 +104,10 @@ perform this kind of tasks. We want to implement our trigger system
 with an FPGA.
 
 
+The project can be summarized with the following scheme:
+
+![Project scheme](images/project_scheme.png)
+
 Possible subproject subdivision
 -------------------------------
 
