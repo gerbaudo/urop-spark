@@ -3,6 +3,9 @@ Construction of a spark chamber to visualize cosmic rays
 
 This document describes the construction of a spark chamber particle
 detector for educational purposes.
+We plan on submitting a UROP proposal to fund the project; the
+deadline for its submission is November 4th. Please get in touch
+with me if you are interested in the project.
 
 Davide Gerbaudo (dgerbaud@uci.edu), October 2013.
 
