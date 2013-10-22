@@ -1,0 +1,83 @@
+Below you can find a few links to reading material for the spark
+chamber project. Please do not be intimidated by the long list; start
+with the ones that interest you the most.
+
+The thesis of Susan Richards ("The Design and Construction of a Spark
+Chamber for Display Purposes") is a good starting point. It provides a
+overview of the detector, and also fair amount of details on one of
+its possible implementations. Most of the other documents focus on one
+particular aspect of the project.
+
+## Overview documents
+
+- Susan Richards, "The Design and Construction of a Spark Chamber for
+  Display Purposes", 1975. Senior thesis, Princeton University.
+  [pdf](https://docs.google.com/file/d/0B3inNvIrVHvvWFNuZzFnYmZwZmM/edit?usp=sharing)
+- W. A. Wenzel, "Spark Chambers", 1964. Review
+  paper. [pdf](http://dx.doi.org/10.1146/annurev.ns.14.120164.001225)
+  
+## Similar setups at other universities
+
+- Birmingham. Web page with several pictures, videos, and descriptions
+  [link](http://www.hep.ph.bham.ac.uk/general/outreach/SparkChamber2/)
+
+- Cambridge. Main web page with overview, pictures, and videos
+  [link](http://www.hep.phy.cam.ac.uk/~lester/teaching/SparkChamber/SparkChamber.html)
+  - P. de Grouchy. "Construction and evaluation of a fast switching
+    trigger circuit for a cosmic ray detection spark chamber", 2009.
+    Detailed description of the triggering circuit, and of the
+    spark-plug circuit to generate the high-voltage
+    pulse. [pdf](https://docs.google.com/file/d/0B3inNvIrVHvvMkxfSFVDenpkZFE/edit?usp=sharing)
+    Some of the pictures are missing from the pdf; e-mail me and I
+    will send you the doc file.
+  - J. Collins, "Construction of a Prototype Spark Chamber",
+    2010. Report and preprint, with several practical recommendations
+    on the design of the chamber and of the electronics.
+    [arxiv](http://arxiv.org/abs/1010.4010)
+  - European Particle Physics Outreach Group
+    [link](http://www.hep.phy.cam.ac.uk/~lester/teaching/SparkChamber/NIKHEF/eppog.web.cern.ch/eppog/Resources/SparkChamber.html)
+
+- Manchester. Two wikis:
+  - one from 2012 with more details on the construction and budget
+  [link](http://manchestermphys2012.wikispaces.com)
+  - one from 2013, with more details on the operations of the chamber
+  (e.g. gas pressure, potential improvements, etc.)
+
+  In addition, each wiki has links to detailed reports written by each
+  one of the students involved.
+
+- Montana. Web page of Prof. John Belz. Picures and schematics for the
+  thyratron driver
+  circuit. [link](http://www.physics.utah.edu/~belz/sparkchamber/sparkchamber.html)
+
+- NIKHEF. Home page of Fred Hartjes. Extensive documentation,
+  including manuals, engineering drawings, and electronic
+  schematics. Some of the documents are in dutch. [link](http://www.nikhef.nl/~i56/)
+
+- Notre Dame. Justin Pilot, "Design and Construction of a Narrow-Gap
+  Spark Chamber for Detection of Cosmic Rays", 2006. Senior thesis
+  team report. Review and overall description. Includes mechanical
+  drawings of the metal plates and some electronic
+  schematics. [link](https://docs.google.com/file/d/0B3inNvIrVHvvYVFJekNVTF9rem8/edit?usp=sharing)
+
+At this link you can find a few more papers from the literature
+[citeulike/gerbaudo/spark](http://www.citeulike.org/user/gerbaudo/tag/spark)
+
+
+## FPGA
+
+We plan to use the Digilent Nexys 3 development board. On the Digilent
+website you can find the board documentation
+[link](http://www.digilentinc.com/Products/Detail.cfm?Prod=NEXYS3) and
+you can download their software to simulate and program the board
+[link](http://www.digilentinc.com/Products/Detail.cfm?Prod=ADEPT2).
+Their software is available for both Linux and Windows.
+
+## UROP
+
+We plan on submitting a group proposal. You can find the Fall 2013
+call at this [link](http://www.urop.uci.edu/grants.html).
+
+Please note that the deadline for submission is Monday, November 4th.
+In addition to the group proposal "you must also upload the proposal
+and a personal statement for each undergraduate group member."
