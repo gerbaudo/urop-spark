@@ -1,3 +1,5 @@
+# emacs temporary files
+*~
 # Object files
 *.o
 *.ko
