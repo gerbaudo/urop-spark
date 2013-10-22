@@ -13,15 +13,17 @@ particular aspect of the project.
 - Susan Richards, "The Design and Construction of a Spark Chamber for
   Display Purposes", 1975. Senior thesis, Princeton University.
   [pdf](https://docs.google.com/file/d/0B3inNvIrVHvvWFNuZzFnYmZwZmM/edit?usp=sharing)
-- W. A. Wenzel, "Spark Chambers", 1964. Review
+- W. A. Wenzel, "Spark Chambers", Annual Review of Nuclear Science
+  Vol. 14: 205-238 1964. Review
   paper. [pdf](http://dx.doi.org/10.1146/annurev.ns.14.120164.001225)
   
 ## Similar setups at other universities
 
-- Birmingham. Web page with several pictures, videos, and descriptions
+- **Birmingham**. Web page with several pictures, videos, and
+  descriptions
   [link](http://www.hep.ph.bham.ac.uk/general/outreach/SparkChamber2/)
 
-- Cambridge. Main web page with overview, pictures, and videos
+- **Cambridge**. Main web page with overview, pictures, and videos
   [link](http://www.hep.phy.cam.ac.uk/~lester/teaching/SparkChamber/SparkChamber.html)
   - P. de Grouchy. "Construction and evaluation of a fast switching
     trigger circuit for a cosmic ray detection spark chamber", 2009.
@@ -37,30 +39,31 @@ particular aspect of the project.
   - European Particle Physics Outreach Group
     [link](http://www.hep.phy.cam.ac.uk/~lester/teaching/SparkChamber/NIKHEF/eppog.web.cern.ch/eppog/Resources/SparkChamber.html)
 
-- Manchester. Two wikis:
-  - one from 2012 with more details on the construction and budget
+- **Manchester**. Two wikis; in addition, each wiki has links to
+  detailed reports written by each one of the students involved.
+  - Wiki from 2012 with more details on the construction and budget
   [link](http://manchestermphys2012.wikispaces.com)
-  - one from 2013, with more details on the operations of the chamber
+  - Wiki from 2013, with more details on the operations of the chamber
   (e.g. gas pressure, potential improvements, etc.)
+  [link](https://uomsparkchamber2013.wikispaces.com)
 
-  In addition, each wiki has links to detailed reports written by each
-  one of the students involved.
-
-- Montana. Web page of Prof. John Belz. Picures and schematics for the
-  thyratron driver
+- **Montana**. Web page of Prof. John Belz. Picures and schematics for
+  the thyratron driver
   circuit. [link](http://www.physics.utah.edu/~belz/sparkchamber/sparkchamber.html)
 
-- NIKHEF. Home page of Fred Hartjes. Extensive documentation,
+- **NIKHEF**. Home page of Fred Hartjes. Extensive documentation,
   including manuals, engineering drawings, and electronic
-  schematics. Some of the documents are in dutch. [link](http://www.nikhef.nl/~i56/)
+  schematics. Some of the documents are in
+  dutch. [link](http://www.nikhef.nl/~i56/)
 
-- Notre Dame. Justin Pilot, "Design and Construction of a Narrow-Gap
+- **Notre Dame**. Justin Pilot, "Design and Construction of a Narrow-Gap
   Spark Chamber for Detection of Cosmic Rays", 2006. Senior thesis
   team report. Review and overall description. Includes mechanical
   drawings of the metal plates and some electronic
   schematics. [link](https://docs.google.com/file/d/0B3inNvIrVHvvYVFJekNVTF9rem8/edit?usp=sharing)
 
-At this link you can find a few more papers from the literature
+At this link you can find a few more papers from the literature on
+this subject:
 [citeulike/gerbaudo/spark](http://www.citeulike.org/user/gerbaudo/tag/spark)
 
 
