@@ -13,6 +13,8 @@ particular aspect of the project.
 - Susan Richards, "The Design and Construction of a Spark Chamber for
   Display Purposes", 1975. Senior thesis, Princeton University.
   [pdf](https://docs.google.com/file/d/0B3inNvIrVHvvWFNuZzFnYmZwZmM/edit?usp=sharing)
+  This spark chamber is still working today:
+  [picture](https://lh6.googleusercontent.com/-xEEBnr4i6Ys/Uhycv9IbLNI/AAAAAAAAAjA/2NlrVADsycU/w939-h704-no/spark_chamber_pu.jpg)
 - W. A. Wenzel, "Spark Chambers", Annual Review of Nuclear Science
   Vol. 14: 205-238 1964. Review
   paper. [pdf](http://dx.doi.org/10.1146/annurev.ns.14.120164.001225)
