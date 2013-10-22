@@ -30,8 +30,8 @@ particular aspect of the project.
     Detailed description of the triggering circuit, and of the
     spark-plug circuit to generate the high-voltage
     pulse. [pdf](https://docs.google.com/file/d/0B3inNvIrVHvvMkxfSFVDenpkZFE/edit?usp=sharing)
-    Some of the pictures are missing from the pdf; e-mail me and I
-    will send you the doc file.
+    Some of the pictures are missing from the pdf; e-mail me
+    (dgerbaud@) and I will send you the doc file.
   - J. Collins, "Construction of a Prototype Spark Chamber",
     2010. Report and preprint, with several practical recommendations
     on the design of the chamber and of the electronics.
