@@ -78,6 +78,11 @@ you can download their software to simulate and program the board
 [link](http://www.digilentinc.com/Products/Detail.cfm?Prod=ADEPT2).
 Their software is available for both Linux and Windows.
 
+The book [Free Range VHDL](http://www.freerangefactory.org/site/pmwiki.php/Main/Books)
+provides a good introduction to the VHDL language used to
+program FPGAs. It is an open-source book, you can download
+the pdf. 
+
 ## UROP
 
 We plan on submitting a group proposal. You can find the Fall 2013
