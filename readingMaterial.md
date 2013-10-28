@@ -34,10 +34,8 @@ particular aspect of the project.
     pulse. [pdf](https://docs.google.com/file/d/0B3inNvIrVHvvMkxfSFVDenpkZFE/edit?usp=sharing)
     Some of the pictures are missing from the pdf; e-mail me
     (dgerbaud@) and I will send you the doc file.
-  - J. Collins, "Construction of a Prototype Spark Chamber",
-    2010. Report and preprint, with several practical recommendations
-    on the design of the chamber and of the electronics.
-    [arxiv](http://arxiv.org/abs/1010.4010)
+  - J. Collins, "Construction of a Prototype Spark Chamber", 2010. Report and preprint, with several practical recommendations
+    on the design of the chamber and of the electronics. [arxiv](http://arxiv.org/abs/1010.4010)
   - European Particle Physics Outreach Group
     [link](http://www.hep.phy.cam.ac.uk/~lester/teaching/SparkChamber/NIKHEF/eppog.web.cern.ch/eppog/Resources/SparkChamber.html)
 
