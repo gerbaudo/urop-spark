@@ -62,6 +62,10 @@ particular aspect of the project.
   drawings of the metal plates and some electronic
   schematics. [link](https://docs.google.com/file/d/0B3inNvIrVHvvYVFJekNVTF9rem8/edit?usp=sharing)
 
+- **Quarknet** project. Similar project to detect cosmic rays [link](http://quarknet.fnal.gov/)
+  Schematics of their electronic board [link pdf](https://drive.google.com/file/d/0B3inNvIrVHvvOVhYajg5NVVVWDA/edit?usp=sharing)
+
+
 At this link you can find a few more papers from the literature on
 this subject:
 [citeulike/gerbaudo/spark](http://www.citeulike.org/user/gerbaudo/tag/spark)
