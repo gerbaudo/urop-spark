@@ -70,6 +70,29 @@ At this link you can find a few more papers from the literature on
 this subject:
 [citeulike/gerbaudo/spark](http://www.citeulike.org/user/gerbaudo/tag/spark)
 
+## High-voltage
+
+Safety: [guidelines](http://www.repairfaq.org/sam/safety.htm)
+
+Marx generators: 
+- [Wikipedia](http://en.wikipedia.org/wiki/Marx_generator), 
+
+- [quick and dirty marx generator](http://www.electricstuff.co.uk/marxgen.htm),
+
+- [Avalanche transistor](http://www3.telus.net/schmaus2/elect/ftron.html),
+
+- [MOS power transistor with thyratron](http://dx.doi.org/10.1016/0167-5087(84)90380-6),
+
+- [wiki4hv](http://wiki.4hv.org/index.php/Category:High_Voltage),
+
+- [A lightweight high-voltage PS](http://jnaudin.free.fr/html/lwhvps.htm) based on flyback,
+
+- [Simple High Voltage Generator](http://www.repairfaq.org/sam/hvinvert.htm)
+
+- [DSRD Russian design, 2010](http://dx.doi.org/10.1134/S0020441210020132)
+
+Power supply makers: 
+[Emco](http://www.emcohighvoltage.com/), [Spellman](http://www.spellmanhv.com)
 
 ## FPGA
 
