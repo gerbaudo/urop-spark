@@ -18,6 +18,7 @@ particular aspect of the project.
 - W. A. Wenzel, "Spark Chambers", Annual Review of Nuclear Science
   Vol. 14: 205-238 1964. Review
   paper. [pdf](http://dx.doi.org/10.1146/annurev.ns.14.120164.001225) and [pdf2](https://drive.google.com/file/d/0B3inNvIrVHvvYUdGdkEtaVVOYTA/edit?usp=sharing)
+- Arthur Roberts, "Development of the Spark Chamber: A Review", [Rev. Sci. Instrum. 32, 482, 1961](http://dx.doi.org/10.1063/1.1717420)
   
 ## Similar setups at other universities
 
@@ -75,20 +76,13 @@ this subject:
 Safety: [guidelines](http://www.repairfaq.org/sam/safety.htm)
 
 Marx generators: 
-- [Wikipedia](http://en.wikipedia.org/wiki/Marx_generator), 
-
-- [quick and dirty marx generator](http://www.electricstuff.co.uk/marxgen.htm),
-
-- [Avalanche transistor](http://www3.telus.net/schmaus2/elect/ftron.html),
-
-- [MOS power transistor with thyratron](http://dx.doi.org/10.1016/0167-5087(84)90380-6),
-
-- [wiki4hv](http://wiki.4hv.org/index.php/Category:High_Voltage),
-
-- [A lightweight high-voltage PS](http://jnaudin.free.fr/html/lwhvps.htm) based on flyback,
-
+- [Wikipedia](http://en.wikipedia.org/wiki/Marx_generator)
+- [quick and dirty marx generator](http://www.electricstuff.co.uk/marxgen.htm)
+- [Avalanche transistor](http://www3.telus.net/schmaus2/elect/ftron.html)
+- [MOS power transistor with thyratron](http://dx.doi.org/10.1016/0167-5087(84)90380-6)
+- [wiki4hv](http://wiki.4hv.org/index.php/Category:High_Voltage)
+- [A lightweight high-voltage PS](http://jnaudin.free.fr/html/lwhvps.htm) based on flyback
 - [Simple High Voltage Generator](http://www.repairfaq.org/sam/hvinvert.htm)
-
 - [DSRD Russian design, 2010](http://dx.doi.org/10.1134/S0020441210020132)
 
 Power supply makers: 
