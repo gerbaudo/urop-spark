@@ -63,6 +63,8 @@ particular aspect of the project.
   drawings of the metal plates and some electronic
   schematics. [link](https://docs.google.com/file/d/0B3inNvIrVHvvYVFJekNVTF9rem8/edit?usp=sharing)
 
+- **Griffith Observatory**. P. Halverson, [webpage](http://www.halverscience.net/Spark_Chamber/Spark_Chamber.html)
+
 - **Quarknet** project. Similar project to detect cosmic rays [link](http://quarknet.fnal.gov/)
   Schematics of their electronic board [link pdf](https://drive.google.com/file/d/0B3inNvIrVHvvOVhYajg5NVVVWDA/edit?usp=sharing)
 
